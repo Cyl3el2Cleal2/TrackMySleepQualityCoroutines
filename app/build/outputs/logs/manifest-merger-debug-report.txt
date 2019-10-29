@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/9637822516498b02bb4fca94e2aee1dc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/b487663b8e0d30a1bf52bf3759a7c720/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/macpro/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/836d5c0bcb034eea2b677effb6702a19/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/5bf42d7c6aa674907f60678f63d1f24b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/fbc1748989f5203a354e6bf896b3f3ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/0d59dc04d493b5b0cd4adf125cddb0f0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/macpro/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/2a7f75e667698a7642556ab2afc87bf6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/622e7fe77e50fae03be0d7faa14bc878/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/2a056c6133efcf252c571fb2e0144ab9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/36d96680e91fbbcde89208ea86eb9539/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/8856137332a3bf183e0e550288216feb/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/2197f0a5bc75f9162a017dde65e7e44b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/macpro/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/82f38d475d5edc04ed4b42874c999d69/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/dc1e0a8a7163a12f1e29bb1150ba2a94/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/046871843f534a14b056798a32b0ad77/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d79b287373a9a53f9abe186b4ba99d40/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/601a1b162522a598a1ac43c66bce8be4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/40089005b52632696be5a9104ae64ec8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/be6b2dd8ed0ee13bd7c2612fa72e92be/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/16d7c00b2305c3974e13a1c52a90060a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/macpro/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/43183ec71513308f55d2a44cf9930010/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/fd5ceffe808cf733e30ace44afb3313d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a46cf7c9f87d72d80dddbe42b6a7e012/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/e05ba7ad3cefc2fdb2b7338e8207e62e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/a3ac3de3af2022a79f4b7bc40d8f0533/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fc0d115375e5fd26adee4f49ef47834c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7242e038dc14a1820c67e0c581cca5ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0abe77a3e5c9b47bfbe190b48166deea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/63dfd336be9f85d36428962bdb58836c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/ed2ca9358f825b9472232d82e4d28a22/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/5e26066239f4610ad44e4c3993335b9b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/c96ed5df4c15eb10c532a651da1610a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/507de00a5d6e50f38dd2381f483f9d57/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/macpro/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/69c433bf86b4173b0b53b59724a19dbf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/5f941260fd3c43e026bbffe2ef2f4073/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/511bd2f86aac1e28a9c799890ec5973f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/31ad9e18f679b7f35e04d69bf24c90f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/439c6a66b18a80264c4ade634afeaa61/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/56b1447de65e17c14e2e85c836d678d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6f7bc08e34e4275c73d1cddd1b3c925f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/a3b923492123b7a12e79951075c772fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/ab87d0f5563aef06a9bd6ee2fb0a5902/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d01e647211a213cccf82615815e04aea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/07cd3f17c6196487d4f6fc087f60fc80/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/2edcff42fbd6bb5150721cd997be96e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/45f6c94c2b98e83ff8e9db0a365b31e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/921e56743f6a861a38ae8e9ef1b29b37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/3bc773e5fe184126c8fd20ea456d89e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/fd91106a2d4d8ca9a029c912ade4d353/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/990c1c8031f6e95527302ffe3f99cb5f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/macpro/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/836d5c0bcb034eea2b677effb6702a19/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/macpro/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/836d5c0bcb034eea2b677effb6702a19/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/0d59dc04d493b5b0cd4adf125cddb0f0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/0d59dc04d493b5b0cd4adf125cddb0f0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/8856137332a3bf183e0e550288216feb/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/8856137332a3bf183e0e550288216feb/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] /Users/macpro/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/69c433bf86b4173b0b53b59724a19dbf/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/macpro/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/69c433bf86b4173b0b53b59724a19dbf/AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/5f941260fd3c43e026bbffe2ef2f4073/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/5f941260fd3c43e026bbffe2ef2f4073/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/439c6a66b18a80264c4ade634afeaa61/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/439c6a66b18a80264c4ade634afeaa61/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/macpro/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/69c433bf86b4173b0b53b59724a19dbf/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:9:9-68
+	android:icon
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:7:9-57
+	android:allowBackup
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.trackmysleepquality.MainActivity
+ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/9637822516498b02bb4fca94e2aee1dc/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/9637822516498b02bb4fca94e2aee1dc/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/b487663b8e0d30a1bf52bf3759a7c720/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/b487663b8e0d30a1bf52bf3759a7c720/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/macpro/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/836d5c0bcb034eea2b677effb6702a19/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/macpro/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/836d5c0bcb034eea2b677effb6702a19/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/5bf42d7c6aa674907f60678f63d1f24b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/5bf42d7c6aa674907f60678f63d1f24b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/fbc1748989f5203a354e6bf896b3f3ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/fbc1748989f5203a354e6bf896b3f3ef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/0d59dc04d493b5b0cd4adf125cddb0f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/0d59dc04d493b5b0cd4adf125cddb0f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/macpro/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/2a7f75e667698a7642556ab2afc87bf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/macpro/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/2a7f75e667698a7642556ab2afc87bf6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/622e7fe77e50fae03be0d7faa14bc878/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/622e7fe77e50fae03be0d7faa14bc878/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/2a056c6133efcf252c571fb2e0144ab9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/2a056c6133efcf252c571fb2e0144ab9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/36d96680e91fbbcde89208ea86eb9539/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/36d96680e91fbbcde89208ea86eb9539/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/8856137332a3bf183e0e550288216feb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/8856137332a3bf183e0e550288216feb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/2197f0a5bc75f9162a017dde65e7e44b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/2197f0a5bc75f9162a017dde65e7e44b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/macpro/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/82f38d475d5edc04ed4b42874c999d69/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/macpro/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/82f38d475d5edc04ed4b42874c999d69/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/dc1e0a8a7163a12f1e29bb1150ba2a94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/dc1e0a8a7163a12f1e29bb1150ba2a94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/046871843f534a14b056798a32b0ad77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/046871843f534a14b056798a32b0ad77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d79b287373a9a53f9abe186b4ba99d40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d79b287373a9a53f9abe186b4ba99d40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/601a1b162522a598a1ac43c66bce8be4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/601a1b162522a598a1ac43c66bce8be4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/40089005b52632696be5a9104ae64ec8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/40089005b52632696be5a9104ae64ec8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/be6b2dd8ed0ee13bd7c2612fa72e92be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/be6b2dd8ed0ee13bd7c2612fa72e92be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/16d7c00b2305c3974e13a1c52a90060a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/16d7c00b2305c3974e13a1c52a90060a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/macpro/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/43183ec71513308f55d2a44cf9930010/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/macpro/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/43183ec71513308f55d2a44cf9930010/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/fd5ceffe808cf733e30ace44afb3313d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/fd5ceffe808cf733e30ace44afb3313d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a46cf7c9f87d72d80dddbe42b6a7e012/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/a46cf7c9f87d72d80dddbe42b6a7e012/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/e05ba7ad3cefc2fdb2b7338e8207e62e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/e05ba7ad3cefc2fdb2b7338e8207e62e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/a3ac3de3af2022a79f4b7bc40d8f0533/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/a3ac3de3af2022a79f4b7bc40d8f0533/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fc0d115375e5fd26adee4f49ef47834c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fc0d115375e5fd26adee4f49ef47834c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7242e038dc14a1820c67e0c581cca5ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7242e038dc14a1820c67e0c581cca5ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0abe77a3e5c9b47bfbe190b48166deea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0abe77a3e5c9b47bfbe190b48166deea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/63dfd336be9f85d36428962bdb58836c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/63dfd336be9f85d36428962bdb58836c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/ed2ca9358f825b9472232d82e4d28a22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/ed2ca9358f825b9472232d82e4d28a22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/5e26066239f4610ad44e4c3993335b9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/5e26066239f4610ad44e4c3993335b9b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/c96ed5df4c15eb10c532a651da1610a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/c96ed5df4c15eb10c532a651da1610a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/507de00a5d6e50f38dd2381f483f9d57/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /Users/macpro/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/507de00a5d6e50f38dd2381f483f9d57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/macpro/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/69c433bf86b4173b0b53b59724a19dbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/macpro/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/69c433bf86b4173b0b53b59724a19dbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/5f941260fd3c43e026bbffe2ef2f4073/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/5f941260fd3c43e026bbffe2ef2f4073/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/511bd2f86aac1e28a9c799890ec5973f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/511bd2f86aac1e28a9c799890ec5973f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/31ad9e18f679b7f35e04d69bf24c90f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/31ad9e18f679b7f35e04d69bf24c90f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/439c6a66b18a80264c4ade634afeaa61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/439c6a66b18a80264c4ade634afeaa61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/56b1447de65e17c14e2e85c836d678d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/56b1447de65e17c14e2e85c836d678d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6f7bc08e34e4275c73d1cddd1b3c925f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6f7bc08e34e4275c73d1cddd1b3c925f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/a3b923492123b7a12e79951075c772fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/a3b923492123b7a12e79951075c772fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/ab87d0f5563aef06a9bd6ee2fb0a5902/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/ab87d0f5563aef06a9bd6ee2fb0a5902/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d01e647211a213cccf82615815e04aea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d01e647211a213cccf82615815e04aea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/07cd3f17c6196487d4f6fc087f60fc80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/07cd3f17c6196487d4f6fc087f60fc80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/2edcff42fbd6bb5150721cd997be96e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/2edcff42fbd6bb5150721cd997be96e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/45f6c94c2b98e83ff8e9db0a365b31e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/45f6c94c2b98e83ff8e9db0a365b31e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/921e56743f6a861a38ae8e9ef1b29b37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/921e56743f6a861a38ae8e9ef1b29b37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/3bc773e5fe184126c8fd20ea456d89e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/3bc773e5fe184126c8fd20ea456d89e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/fd91106a2d4d8ca9a029c912ade4d353/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/fd91106a2d4d8ca9a029c912ade4d353/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/990c1c8031f6e95527302ffe3f99cb5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/990c1c8031f6e95527302ffe3f99cb5f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macpro/AndroidStudioProjects/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/5f941260fd3c43e026bbffe2ef2f4073/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/5f941260fd3c43e026bbffe2ef2f4073/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/5f941260fd3c43e026bbffe2ef2f4073/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/5f941260fd3c43e026bbffe2ef2f4073/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/macpro/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/5f941260fd3c43e026bbffe2ef2f4073/AndroidManifest.xml:24:13-79
